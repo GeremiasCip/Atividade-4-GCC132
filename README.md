@@ -3,6 +3,8 @@ Atividade avaliativa da disciplina de Modelagem e Implementação de Software
 
 Este arquivo foi criado com a finalidade de **aplicar os conhecimenetos adquiridos** na aula sobre *Git*, ministrada pelo professor **Paulo Júnior**.
 
+![Imagem do Git](https://www.alura.com.br/artigos/assets/o-que-e-git-ops/img-02.png)
+
 *Git* é um **sistema de controle de versões distribuído** que foi incialmente projetado e desenvolvido por **Linus Torvalds**. 
 Seu [download](https://git-scm.com/downloads) pode ser feito aqui.
 
