@@ -14,7 +14,7 @@ Você pode criar uma conta clicando neste [link](https://github.com).
 
 Abixo, temos um exemplo de código na linguagem C++:
 
-'cout << "A disciplina de Modelagem e Implementação de Software é TOP!" << endl;'
+`cout << "A disciplina de Modelagem e Implementação de Software é TOP!" << endl;`
 
 As principais tarefas do Git são:
 * git clone
@@ -22,6 +22,11 @@ As principais tarefas do Git são:
 * git commit 
 * git push
 * git pull
+
+O git também possibitada trabalhar comm ramos com as seguintes tarefas:
+* git branch
+* git checkout 
+* git merge
 
 
 
