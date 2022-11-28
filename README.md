@@ -19,11 +19,11 @@ Abixo, temos um exemplo de código na linguagem C++:
 `cout << "A disciplina de Modelagem e Implementação de Software é TOP!" << endl;`
 
 As principais tarefas do Git são:
-* git clone
-* git add
-* git commit 
-* git push
-* git pull
+* **git clone:** Você clona um repositório com git clone [url];
+* **git add:** Quando um repositório é inicialmente clonado, todos os seus arquivos estarão monitorados e inalterados porque você simplesmente os obteve e ainda não os editou. Conforme você edita esses arquivos, o Git passa a vê-los como modificados, porque você os alterou desde seu último commit. Você seleciona esses arquivos modificados e então faz o commit de todas as alterações selecionadas e o ciclo se repete
+* **git commit:** Armazena o conteúdo atual do índice em um novo commit, juntamente com uma mensagem de registro do usuário que descreve as mudanças. Se usa o commit depois de já ter feito o git add, para fazer o commit;
+* **git push:** O git push é o comando em que você transfere commits a partir do seu repositório local para um repositório remoto;
+* **git pull:** Incorpora as alterações de um repositório remoto no branch atual;
 
 O git também possibitada trabalhar comm ramos com as seguintes tarefas:
 * git branch
